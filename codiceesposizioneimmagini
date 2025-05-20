@@ -1,0 +1,29 @@
+<!-- Inizio galleria reperti Teanum Sidicinum -->
+<table width="80%" align="center" cellspacing="30">
+  <tr align="center">
+    <td width="25%" bgcolor="#f5f5dc" style="padding: 15px; border-radius: 15px;">
+      <font size="5"><p><em>Popluna</em></p></font>
+      <img src="popluna.jpg" width="90%" style="border-radius: 10px;"><br><br>
+      <font size="4">Divinità osca venerata nelle zone dell’antico Sannio, rappresentata in forma simbolica.</font>
+    </td>
+
+    <td width="25%" bgcolor="#f5f5dc" style="padding: 15px; border-radius: 15px;">
+      <font size="5"><p><em>Statua con maialino</em></p></font>
+      <img src="StatuaMaialinoTeanumSidicinum.jpg" width="90%" style="border-radius: 10px;"><br><br>
+      <font size="4">Piccola statua raffigurante una divinità o figura rituale con un maialino, simbolo di fertilità o sacrificio.</font>
+    </td>
+
+    <td width="25%" bgcolor="#f5f5dc" style="padding: 15px; border-radius: 15px;">
+      <font size="5"><p><em>Statuetta femminile con fanciulli</em></p></font>
+      <img src="StatuettaFemminileConFanciulliSulleSpalleTeano.jpg" width="90%" style="border-radius: 10px;"><br><br>
+      <font size="4">Figura votiva di madre con bambini sulle spalle, legata al culto della fertilità e della protezione domestica.</font>
+    </td>
+
+    <td width="25%" bgcolor="#f5f5dc" style="padding: 15px; border-radius: 15px;">
+      <font size="5"><p><em>Donna incinta votiva</em></p></font>
+      <img src="StatuaVotivaTeanumSidicinum.jpg" width="90%" style="border-radius: 10px;"><br><br>
+      <font size="4">Statuetta votiva raffigurante una donna gravida, offerta probabilmente per protezione durante la maternità.</font>
+    </td>
+  </tr>
+</table>
+<!-- Fine galleria reperti Teanum Sidicinum -->
